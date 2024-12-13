@@ -1,11 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
-'''
-@Project ：DRG_parsing
-@File ：run.py
-@Author ：xiao zhang
-@Date ：2022/11/14 12:27
-'''
 
 import argparse
 import os
